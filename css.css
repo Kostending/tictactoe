@@ -1,0 +1,15 @@
+.container {
+	display: flex;
+	width: 100%;
+	height: 98vh;
+	margin: 0;
+	flex-wrap: wrap;
+	border: 1px solid black;
+	justify-content: space-around;
+}
+
+.container .field {
+	border: 2px solid black;
+	width: 33%;
+	height: 32.8%;
+}
